@@ -1,0 +1,31 @@
+Interests,Subjects,Communication,Programming,Management,Creativity,Label
+"design, negotiation","it, ai",8,5,10,4,Management Science
+"building, people","psychology, sociology",4,4,7,1,Data Science
+"creativity, people","design, it",2,7,9,10,Computer Science
+"debugging, system design","business, economics",8,10,4,3,Computer Science
+"problem solving, marketing","business, economics",10,6,6,5,Data Science
+"marketing, system design","sociology, business",3,8,4,9,Data Science
+"marketing, analysis","art, physics",3,9,3,2,Management Science
+"analytics, strategy","cs, math",5,6,2,9,Management Science
+"organizing, design","it, finance",1,5,2,9,Data Science
+"innovation, logic","ai, math",4,2,10,10,Management Science
+"statistics, planning","it, stats",6,4,9,10,Data Science
+"planning, design","physics, finance",8,7,4,8,Computer Science
+"organizing, analytics","sociology, it",10,5,3,9,Computer Science
+"leadership, strategy","sociology, stats",3,10,10,2,Data Science
+"networking, problem solving","business, sociology",2,7,7,4,Data Science
+"problem solving, debugging","sociology, psychology",4,2,7,3,Management Science
+"planning, creativity","management, cs",3,10,4,7,Computer Science
+"marketing, business","stats, english",8,1,3,1,Data Science
+"people, organizing","english, stats",2,9,3,10,Computer Science
+"system design, problem solving","english, finance",8,5,10,7,Data Science
+"innovation, logic","finance, english",4,7,2,3,Management Science
+"people, organizing","stats, business",10,1,7,6,Computer Science
+"innovation, project management","cs, management",2,10,10,4,Computer Science
+"project management, strategy","physics, english",2,8,10,3,Data Science
+"design, project management","english, physics",7,5,7,4,Data Science
+"people, negotiation","stats, economics",4,4,1,4,Management Science
+"coding, strategy","finance, economics",3,5,9,8,Data Science
+"organizing, innovation","finance, math",5,4,7,3,Computer Science
+"project management, design","psychology, cs",1,6,6,10,Data Science
+"design, people","economics, it",7,5,8,9,Data Science
